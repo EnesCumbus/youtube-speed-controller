@@ -1,3 +1,4 @@
+<div align="left">
 # 🎥 YouTube Video Hız Kontrolü 🚀
 
 YouTube videolarının hızını kolayca kontrol etmenizi sağlayan bir Chrome uzantısı! 🎉
@@ -50,4 +51,6 @@ YouTube videolarının hızını kolayca kontrol etmenizi sağlayan bir Chrome u
 💻 **Keyifli Kodlamalar!**
 
 ![Ekran görüntüsü 2024-12-02 024149](https://github.com/user-attachments/assets/0b189d15-229d-4707-a9f7-04601c1ba98c)
+</div>
+
 
